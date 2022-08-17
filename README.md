@@ -1,6 +1,4 @@
-# newyork-news-project
-
-## 개요
+# search-news-project
 
 news api를 이용하여 뉴스를 검색하고, 검색한 단어에 따른 검색 결과를 보여주는 프로젝트입니다.
 
